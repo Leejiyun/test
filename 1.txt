@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+	<html lang="ko">
+	<head>
+		<meta charset="utf-8">
+		<title>DOOSAN</title>		
+		<meta http-equiv="imagetoolbar" content="no">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<!--
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes, target-densitydpi=medium-dpi">
+		-->
+		<meta name="viewport" content="width=1010">
+		</head>
+	<body>
+
+
+	sdafasdfasdfasdfasdf
+		
+	테스트 테스트		aaaa
+	</body>
+
+</html> 
+
